@@ -10,7 +10,7 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] Users are see a screen with three labels and a button
+- [X] Users see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -28,13 +28,33 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+Favorite Apps and Their Features
+
+Instagram:
+- View the people you are following's photos
+- Change the background theme of the direct message chats
+- Algorithm that shows photos and videos based on the user's interests on explore page
+  
+WeChat:
+- Unsend messages within 2 minutes of sending them
+- Could customize background picture in WeChat moments
+
+Douyin:
+- Algorithm that shows videos of related interests on the feed
+- Ability to save videos to view later 
+
+Chowbus:
+- Sort the participating nearby restaurants by distance
+- Offer limited-time promotions that can do up to 50% off
+
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I faced was connecting GitHub with XCode. I first started the project on XCode, and I had to do some research when I wanted to transport the code to GitHub. In the end, I created an empty repository, and then I went through the terminal and entered the folder where my project is located, and did git remote add origin <repository-url> that links the remote repository with the local repository.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Fanny Zheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
