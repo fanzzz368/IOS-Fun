@@ -47,10 +47,12 @@ Chowbus:
 - Sort the participating nearby restaurants by distance
 - Offer limited-time promotions that can do up to 50% off
 
+An app I would like to build is an extension of my previous project, MeetThePack. MeetThePack is a socializing platform for people interested in tech and/or related fields to bond over their shared passion in tech and build new relationships/widen network. Some features I would like to implement are a create account and login feature, user profile feature, survey feature where users can answer some questions related to their interest in tech when signing up, and the ability to message one another. 
+
 
 ## Notes
 
-One challenge I faced was connecting GitHub with XCode. I first started the project on XCode, and I had to do some research when I wanted to transport the code to GitHub. In the end, I created an empty repository, and then I went through the terminal and entered the folder where my project is located, and did git remote add origin <repository-url> that links the remote repository with the local repository.
+One challenge I faced was connecting GitHub with XCode. I first started the project on XCode, and I had to do some research when I wanted to transport the code to GitHub. In the end, I created an empty repository, and then I went through the terminal and entered the folder where my project is located, and did git remote add origin <repository-url> that links the remote repository with the local repository. Another challenge I faced was learning how to implement a timer into my code for changing the color of the label every one second. I learned that @objc is required in a function to make it acessible from Objective-C which contains the timer. 
 
 ## License
 
