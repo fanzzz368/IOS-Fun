@@ -4,7 +4,7 @@ Submitted by: Fanny Zheng
 
 IOS-Fun is an app that allows users to change the color of the app's background to a randomly generated color whenever the "change color" button is clicked.
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
